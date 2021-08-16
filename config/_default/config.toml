@@ -1,4 +1,4 @@
-baseURL = "https://objective-tesla-ff2350.netlify.app"
+baseURL = "localhost"
 title = "Shell"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
